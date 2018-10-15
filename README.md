@@ -1,2 +1,2 @@
 # ergodox-ez-keybind
-https://configure.ergodox-ez.com/layouts/ZePo/latest/0
+https://configure.ergodox-ez.com/layouts/M4dr/latest/3
