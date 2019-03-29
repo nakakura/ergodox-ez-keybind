@@ -1,2 +1,2 @@
 # ergodox-ez-keybind
-https://configure.ergodox-ez.com/layouts/VRye/latest/0
+https://configure.ergodox-ez.com/layouts/DB4K/latest/0
