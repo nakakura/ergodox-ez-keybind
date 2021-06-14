@@ -1,2 +1,2 @@
 # ergodox-ez-keybind
-https://configure.zsa.io/ergodox-ez/layouts/rDPjJ/latest/0
+https://configure.zsa.io/ergodox-ez/layouts/v4Jmr/latest/1
